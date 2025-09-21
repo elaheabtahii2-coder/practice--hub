@@ -1,4 +1,4 @@
-# practice--hub
+# practice--hu
 6. Next-gen crypto solution.
 main.py
 `python
