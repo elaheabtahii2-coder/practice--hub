@@ -1,6 +1,6 @@
 # practice--hub
 6. Next-gen crypto solution.
-main.py
+main.p
 `python
 #!/usr/bin/env python3
 """airdrophub: simple airdrop checklist demo"""
